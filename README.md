@@ -16,8 +16,17 @@ The class also includes getter and setter methods for managing the `value` of th
   - `getValue()`: Retrieves the current value of the `TextBox`.
   - `setValue()`: Sets a new value to the `TextBox`.
 
-## Project Structure
+   ## Project Structure
 
 - `textB.hpp`: Header file containing the declaration of the `TextBox` class.
 - `textB.cpp`: Implementation file where the methods and constructors of the `TextBox` class are defined.
 - `main.cpp`: The main driver program demonstrating the usage of the `TextBox` class.
+
+## Screenshots
+![Screenshot (36)](https://github.com/user-attachments/assets/b7b01f7e-8611-40da-9731-3196c378dd88)
+
+## Author
+**. Kailash Paudel**
+
+
+
